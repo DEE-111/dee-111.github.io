@@ -353,7 +353,7 @@ function generateAIResponse(userMessage) {
                 📂 Penetration Testing Intern – Hacktify Cyber Security (Feb 2024 – Mar 2024)<br>
                     • Discovered & reported XSS, SQLi, and IDOR flaws <br>
                     • Fixed CORS & CSRF vulnerabilities to boost resilience<br>
-                    • Deep-dived into ethical hacking, network forensics & cryptography on hands-on labs;
+                    • Deep-dived into ethical hacking, network forensics & cryptography on hands-on labs
             <br>📂 SOFTWARE ENGINEER — Odoo India Pvt. Ltd. — (Dec 2025– Jun 2026)<br>
                     • Contributed to Odoo product quality by investigating complex issues across Accounting, Sales, Inventory, and Industry applications.<br>
                     • Delivered 2+ upstream contributions to Odoo core, including bug fixes, and upgrade scripts.<br>
